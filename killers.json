@@ -1,0 +1,167 @@
+{
+    "common_perks": [
+        {
+            "name": "insidious",
+            "filePath": "iconPerks_insidious.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/IconPerks_insidious.png"
+        }
+    ],
+    "the_trapper": {
+        "portrait": "TR_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/The_Trapper_Portrait_Render.png",
+        "powers": [
+            "iconPowers_trap.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPowers_trap.png",
+        "perkA": {
+            "key": "agitation",
+            "filePath": "iconPerks_agitation.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_agitation.png"
+        },
+        "perkB": {
+            "key": "brutal_strength",
+            "filePath": "iconPerks_brutalStrength.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png"
+        },
+        "perkC": {
+            "key": "unnerving_presence",
+            "filePath": "iconPerks_unnervingPresence.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/IconPerks_unnervingPresence.png"
+        },
+        "addons": [
+            {
+                "key": "trapper_gloves",
+                "filePath": "iconAddon_trapperGloves.png",
+                "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/IconAddon_trapperGloves.png"
+            }
+        ]
+    },
+    "the_wraith": {
+        "portrait": "WR_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/The_Wraith_Portrait_Render.png",
+        "powers": [
+            "iconPowers_bell.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f4/IconPowers_bell.png",
+        "perkA": {
+            "key": "predator",
+            "filePath": "iconPerks_predator.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/IconPerks_predator.png"
+        },
+        "perkB": {
+            "key": "bloodhound",
+            "filePath": "iconPerks_bloodhound.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_bloodhound.png"
+        },
+        "perkC": {
+            "key": "shadowborn",
+            "filePath": "iconPerks_shadowborn.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_shadowborn.png"
+        },
+        "addons": [
+            {
+                "key": "the_serpent-soot",
+                "filePath": "iconAddon_theSerpent-Soot.png",
+                "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/FulliconAddon_theSerpent-Soot.png"
+            }
+        ]
+    },
+    "the_hillbilly": {
+        "portrait": "HB_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/The_Hillbilly_Portrait_Render.png",
+        "powers": [
+            "iconPowers_chainsaw.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPowers_chainsaw.png",
+        "perkA": {
+            "key": "enduring",
+            "filePath": "iconPerks_enduring.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_enduring.png"
+        },
+        "perkB": {
+            "key": "lightborn",
+            "filePath": "iconPerks_lightborn.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_lightborn.png"
+        },
+        "perkC": {
+            "key": "tinkerer",
+            "filePath": "iconPerks_tinkerer.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/IconPerks_tinkerer.png"
+        },
+        "addons": []
+    },
+    "the_nurse": {
+        "portrait": "NR_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/The_Nurse_Portrait_Render.png",
+        "powers": [
+            "iconPowers_breath.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/IconPowers_breath.png",
+        "perkA": {
+            "key": "stridor",
+            "filePath": "iconPerks_stridor.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconPerks_stridor.png"
+        },
+        "perkB": {
+            "key": "thanatophobia",
+            "filePath": "iconPerks_thatanophobia.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png"
+        },
+        "perkC": {
+            "key": "a_nurses_calling",
+            "filePath": "iconPerks_aNursesCalling.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_aNursesCalling.png"
+        },
+        "addons": []
+    },
+    "the_shape": {
+        "portrait": "DLC2/SH_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/The_Shape_Portrait_Render.png",
+        "powers": [
+            "DLC2/iconPowers_stalker1.png",
+            "DLC2/iconPowers_stalker2.png",
+            "DLC2/iconPowers_stalker3.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/IconPowers_stalker1.png",
+        "perkA": {
+            "key": "save_the_best_for_last",
+            "filePath": "DLC2/iconPerks_saveTheBestForLast.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png"
+        },
+        "perkB": {
+            "key": "play_with_your_food",
+            "filePath": "DLC2/iconPerks_playWithYourFood.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_playWithYourFood.png"
+        },
+        "perkC": {
+            "key": "dying_light",
+            "filePath": "DLC2/iconPerks_dyingLight.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_dyingLight.png"
+        },
+        "addons": []
+    },
+    "template": {
+        "portrait": "_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "key": "",
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "key": "",
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "key": "",
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "addons": []
+    }
+}

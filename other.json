@@ -1,0 +1,32 @@
+{
+	"actions" : [
+		{ "carried_body" : "iconAction_carriedBody.png" }
+	],
+	"dailyRituals" : [
+		{ "altruism" : "dailyRitualIcon_altruism.png" }
+	],
+	"emblems" : [
+		{ "benevolent_bronze" : "emblemIcon_benevolent_bronze.png" }
+	],
+	"favors" : [
+		{ "bloody_party_streamers" : "Anniversary/iconFavors_bloodyPartyStreamers.png" }
+	],
+	"help" : [
+		{ "generators" : "iconHelp_generators.png" }
+	],
+	"helpLoading" : [
+		{ "bloodponts" : "iconHelpLoading_bloodpoints.png" }
+	],
+	"itemAddons" : [
+		{ "brand_new_part" : "iconAddon_brandNewPart.png" }
+	],
+	"items" : [
+		{ "worn_toolbox" : "iconItems_toolboxWornOut.png" }
+	],
+	"packs" : [
+		{ "auric_cell_pack_01" : "auricCellPack_01.png" }
+	],
+	"statusEffects" : [
+		{ "exhausted" : "iconStatusEffects_exhausted.png" }
+	],
+}
