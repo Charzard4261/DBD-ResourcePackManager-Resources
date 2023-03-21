@@ -1,8 +1,80 @@
 {
     "common_perks": [
         {
+            "filePath": "iconPerks_darkSense.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/IconPerks_darkSense.png"
+        },
+        {
+            "filePath": "iconPerks_dejaVu.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/89/IconPerks_dejaVu.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_guardian.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_guardian.png"
+        },
+        {
+            "filePath": "iconPerks_hope.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_hope.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_survivalInstincts.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/df/IconPerks_innerHealing.png"
+        },
+        {
             "filePath": "iconPerks_kindred.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_camaraderie.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png"
+        },
+        {
+            "filePath": "iconPerks_lightweight.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/67/IconPerks_lightweight.png"
+        },
+        {
+            "filePath": "iconPerks_noOneLeftBehind.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b0/IconPerks_noOneLeftBehind.png"
+        },
+        {
+            "filePath": "iconPerks_plunderersInstinct.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/28/IconPerks_plunderersInstinct.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_pushThroughIt.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_renewal.png"
+        },
+        {
+            "filePath": "iconPerks_resilience.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_resilience.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_fixated.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png"
+        },
+        {
+            "filePath": "Qatar/iconPerks_situationalAwareness.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/IconPerks_situationalAwareness.png"
+        },
+        {
+            "filePath": "iconPerks_slipperyMeat.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/03/IconPerks_slipperyMeat.png"
+        },
+        {
+            "filePath": "iconPerks_smallGame.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dc/IconPerks_smallGame.png"
+        },
+        {
+            "filePath": "iconPerks_spineChill.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/57/IconPerks_spineChill.png"
+        },
+        {
+            "filePath": "iconPerks_thisIsNotHappening.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_thisIsNotHappening.png"
+        },
+        {
+            "filePath": "iconPerks_wellMakeIt.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8a/IconPerks_wellMakeIt.png"
         }
     ],
     "dwight_fairfield": {
