@@ -1,7 +1,6 @@
 {
     "common_perks": [
         {
-            "key": "kindred",
             "filePath": "iconPerks_kindred.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a8/IconPerks_kindred.png"
         }
@@ -10,17 +9,14 @@
         "portrait": "DF_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/Dwight_Portrait_Render.png",
         "perkA": {
-            "key": "bond",
             "filePath": "iconPerks_bond.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_bond.png"
         },
         "perkB": {
-            "key": "leader",
             "filePath": "iconPerks_leader.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_leader.png"
         },
         "perkC": {
-            "key": "prove_thyself",
             "filePath": "iconPerks_proveThyself.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPerks_proveThyself.png"
         }
@@ -29,17 +25,14 @@
         "portrait": "MT_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/15/Meg_Portrait_Render.png",
         "perkA": {
-            "key": "quick_and_quiet",
             "filePath": "iconPerks_quickAndQuiet.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_quickAndQuiet.png"
         },
         "perkB": {
-            "key": "sprint_burst",
             "filePath": "iconPerks_sprintBurst.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e4/IconPerks_sprintBurst.png"
         },
         "perkC": {
-            "key": "adrenaline",
             "filePath": "iconPerks_adrenaline.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_adrenaline.png"
         }
@@ -48,17 +41,14 @@
         "portrait": "CM_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/Claudette_Portrait_Render.png",
         "perkA": {
-            "key": "empathy",
             "filePath": "iconPerks_empathy.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ae/IconPerks_empathy.png"
         },
         "perkB": {
-            "key": "botany_knowledge",
             "filePath": "iconPerks_botanyKnowledge.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1e/IconPerks_botanyKnowledge.png"
         },
         "perkC": {
-            "key": "self-care",
             "filePath": "iconPerks_selfCare.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_self-Care.png"
         }
@@ -67,17 +57,14 @@
         "portrait": "JP_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8d/Jake_Portrait_Render.png",
         "perkA": {
-            "key": "iron_will",
             "filePath": "iconPerks_ironWill.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/58/IconPerks_ironWill.png"
         },
         "perkB": {
-            "key": "calm_spirit",
             "filePath": "iconPerks_calmSpirit.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_calmSpirit.png"
         },
         "perkC": {
-            "key": "saboteur",
             "filePath": "iconPerks_saboteur.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png"
         }
@@ -86,17 +73,14 @@
         "portrait": "Ash/MS2_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/Ash_Portrait_Render.png",
         "perkA": {
-            "key": "flip_flop",
             "filePath": "Ash/iconPerks_flipFlop.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_flip-Flop.png"
         },
         "perkB": {
-            "key": "buckle_up",
             "filePath": "Ash/iconPerks_buckleUp.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/74/IconPerks_buckleUp.png"
         },
         "perkC": {
-            "key": "mettle_of_man",
             "filePath": "Ash/iconPerks_mettleOfMan.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png"
         }
@@ -109,17 +93,14 @@
         ],
         "defaultPower": "",
         "perkA": {
-            "key": "",
             "filePath": ".png",
             "defaultImage": ""
         },
         "perkB": {
-            "key": "",
             "filePath": ".png",
             "defaultImage": ""
         },
         "perkC": {
-            "key": "",
             "filePath": ".png",
             "defaultImage": ""
         },

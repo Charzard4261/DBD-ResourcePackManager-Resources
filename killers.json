@@ -1,7 +1,6 @@
 {
     "common_perks": [
         {
-            "name": "insidious",
             "filePath": "iconPerks_insidious.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/40/IconPerks_insidious.png"
         }
@@ -14,23 +13,19 @@
         ],
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/IconPowers_trap.png",
         "perkA": {
-            "key": "agitation",
             "filePath": "iconPerks_agitation.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_agitation.png"
         },
         "perkB": {
-            "key": "brutal_strength",
             "filePath": "iconPerks_brutalStrength.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3d/IconPerks_brutalStrength.png"
         },
         "perkC": {
-            "key": "unnerving_presence",
             "filePath": "iconPerks_unnervingPresence.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a4/IconPerks_unnervingPresence.png"
         },
         "addons": [
             {
-                "key": "trapper_gloves",
                 "filePath": "iconAddon_trapperGloves.png",
                 "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/42/IconAddon_trapperGloves.png"
             }
@@ -44,23 +39,19 @@
         ],
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f4/IconPowers_bell.png",
         "perkA": {
-            "key": "predator",
             "filePath": "iconPerks_predator.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/73/IconPerks_predator.png"
         },
         "perkB": {
-            "key": "bloodhound",
             "filePath": "iconPerks_bloodhound.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_bloodhound.png"
         },
         "perkC": {
-            "key": "shadowborn",
             "filePath": "iconPerks_shadowborn.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ac/IconPerks_shadowborn.png"
         },
         "addons": [
             {
-                "key": "the_serpent-soot",
                 "filePath": "iconAddon_theSerpent-Soot.png",
                 "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6b/FulliconAddon_theSerpent-Soot.png"
             }
@@ -74,17 +65,14 @@
         ],
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPowers_chainsaw.png",
         "perkA": {
-            "key": "enduring",
             "filePath": "iconPerks_enduring.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/94/IconPerks_enduring.png"
         },
         "perkB": {
-            "key": "lightborn",
             "filePath": "iconPerks_lightborn.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_lightborn.png"
         },
         "perkC": {
-            "key": "tinkerer",
             "filePath": "iconPerks_tinkerer.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d9/IconPerks_tinkerer.png"
         },
@@ -98,17 +86,14 @@
         ],
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6f/IconPowers_breath.png",
         "perkA": {
-            "key": "stridor",
             "filePath": "iconPerks_stridor.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/IconPerks_stridor.png"
         },
         "perkB": {
-            "key": "thanatophobia",
             "filePath": "iconPerks_thatanophobia.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_thanatophobia.png"
         },
         "perkC": {
-            "key": "a_nurses_calling",
             "filePath": "iconPerks_aNursesCalling.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fe/IconPerks_aNursesCalling.png"
         },
@@ -124,19 +109,332 @@
         ],
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/IconPowers_stalker1.png",
         "perkA": {
-            "key": "save_the_best_for_last",
             "filePath": "DLC2/iconPerks_saveTheBestForLast.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6a/IconPerks_saveTheBestForLast.png"
         },
         "perkB": {
-            "key": "play_with_your_food",
             "filePath": "DLC2/iconPerks_playWithYourFood.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/18/IconPerks_playWithYourFood.png"
         },
         "perkC": {
-            "key": "dying_light",
             "filePath": "DLC2/iconPerks_dyingLight.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/48/IconPerks_dyingLight.png"
+        },
+        "addons": []
+    },
+    "the_hag": {
+        "portrait": "DLC3/HA_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3c/The_Hag_Portrait_Render.png",
+        "powers": [
+            "DLC3/iconPowers_blackenedCatalyst.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPowers_blackenedCatalyst.png",
+        "perkA": {
+            "filePath": "DLC3/iconPerks_theThirdSeal.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/36/IconPerks_hexTheThirdSeal.png"
+        },
+        "perkB": {
+            "filePath": "DLC3/iconPerks_ruin.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a2/IconPerks_hexRuin.png"
+        },
+        "perkC": {
+            "filePath": "DLC3/iconPerks_devourHope.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_hexDevourHope.png"
+        },
+        "addons": []
+    },
+    "the_doctor": {
+        "portrait": "DLC4/DO_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/The_Doctor_Portrait_Render.png",
+        "powers": [
+            "DLC4/iconPowers_cartersSpark.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/IconPowers_cartersSpark.png",
+        "perkA": {
+            "filePath": "DLC4/iconPerks_overwhelmingPresence.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png"
+        },
+        "perkB": {
+            "filePath": "DLC4/iconPerks_monitorAbuse.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_overwhelmingPresence.png"
+        },
+        "perkC": {
+            "filePath": "DLC4/iconPerks_overcharge.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png"
+        },
+        "addons": []
+    },
+    "the_huntress": {
+        "portrait": "DLC5/BE_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/The_Huntress_Portrait_Render.png",
+        "powers": [
+            "DLC5/iconPowers_huntingHatchets.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e5/IconPowers_huntingHatchets.png",
+        "perkA": {
+            "filePath": "DLC5/iconPerks_beastOfPrey.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/IconPerks_beastOfPrey.png"
+        },
+        "perkB": {
+            "filePath": "DLC5/iconPerks_territorialImperative.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2a/IconPerks_territorialImperative.png"
+        },
+        "perkC": {
+            "filePath": "DLC5/iconPerks_huntressLullaby.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/11/IconPerks_hexHuntressLullaby.png"
+        },
+        "addons": []
+    },
+    "the_cannibal": {
+        "portrait": "Cannibal/CA_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/27/The_Cannibal_Portrait_Render.png",
+        "powers": [
+            "Cannibal/iconPowers_bubbasChainsaw.png",
+            "Cannibal/iconPowers_Tantrum.png",
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPowers_bubbasChainsaw.png",
+        "perkA": {
+            "filePath": "Cannibal/iconPerks_knockOut.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_knockOut.png"
+        },
+        "perkB": {
+            "filePath": "Cannibal/iconPerks_BBQAndChili.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/51/IconPerks_barbecueAndChilli.png"
+        },
+        "perkC": {
+            "filePath": "Cannibal/iconPerks_franklinsLoss.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b2/IconPerks_franklinsDemise.png"
+        },
+        "addons": []
+    },
+    "the_nightmare": {
+        "portrait": "England/SD_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/The_Nightmare_Portrait_Render.png",
+        "powers": [
+            "England/iconPowers_dreamMaster.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3a/IconPowers_dreamDemon.png",
+        "perkA": {
+            "filePath": "England/iconPerks_fireUp.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5c/IconPerks_fireUp.png"
+        },
+        "perkB": {
+            "filePath": "England/iconPerks_rememberMe.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_rememberMe.png"
+        },
+        "perkC": {
+            "filePath": "England/iconPerks_bloodWarden.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_bloodWarden.png"
+        },
+        "addons": []
+    },
+    "the_pig": {
+        "portrait": "Finland/FK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Finland/iconPerks_hangmansTrick.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Finland/iconPerks_surveillance.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Finland/iconPerks_makeYourChoice.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_clown": {
+        "portrait": "Guam/GK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Guam/iconPerks_bamboozle.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Guam/iconPerks_coulrophobia.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Guam/iconPerks_popGoesTheWeasel.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_spirit": {
+        "portrait": "Haiti/HK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Haiti/iconPerks_hauntedGround.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Haiti/iconPerks_spiritFury.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Haiti/iconPerks_hatred.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_legion": {
+        "portrait": "Kenya/KK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Kenya/iconPerks_discordance.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Kenya/iconPerks_madGrit.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Kenya/iconPerks_ironMaiden.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_plauge": {
+        "portrait": "Mali/MK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Mali/iconPerks_corruptIntervention.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Mali/iconPerks_infectiousFright.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Mali/iconPerks_darkDevotion.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_ghost_face": {
+        "portrait": "Oman/OK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Oman/iconPerks_imAllEars.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Oman/iconPerks_thrillingTremors.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Oman/iconPerks_furtiveChase.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_demogorgon": {
+        "portrait": "Qatar/QK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Qatar/iconPerks_surge.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Qatar/iconPerks_cruelLimits.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Qatar/iconPerks_mindBreaker.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_oni": {
+        "portrait": "Sweden/SK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Sweden/iconPerks_zanshinTactics.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Sweden/iconPerks_bloodEcho.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Sweden/iconPerks_nemesis.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_deathslinger": {
+        "portrait": "Ukraine/UK_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Ukraine/iconPerks_gearHead.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Ukraine/iconPerks_deadManSwitch.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": "Ukraine/iconPerks_hexRetribution.png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "the_pyramidhead": {
+        "portrait": "Wales/K20_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": "Wales/iconPerks_forcedPenance.png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": "Wales/iconPerks_trailOfTorment.png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": Wales/iconPerks_deathbound".png",
+            "defaultImage": ""
         },
         "addons": []
     },
@@ -148,17 +446,77 @@
         ],
         "defaultPower": "",
         "perkA": {
-            "key": "",
             "filePath": ".png",
             "defaultImage": ""
         },
         "perkB": {
-            "key": "",
             "filePath": ".png",
             "defaultImage": ""
         },
         "perkC": {
-            "key": "",
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "template": {
+        "portrait": "_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "template": {
+        "portrait": "_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkC": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "addons": []
+    },
+    "template": {
+        "portrait": "_charSelect_portrait.png",
+        "defaultPortrait": "",
+        "powers": [
+            ".png"
+        ],
+        "defaultPower": "",
+        "perkA": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkB": {
+            "filePath": ".png",
+            "defaultImage": ""
+        },
+        "perkC": {
             "filePath": ".png",
             "defaultImage": ""
         },
