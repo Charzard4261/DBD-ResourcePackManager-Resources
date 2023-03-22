@@ -568,7 +568,7 @@
         "addons": []
     },
     "the_nemesis": {
-        "portrait": "Eclipse/24_charSelect_portrait.png",
+        "portrait": "Eclipse/K24_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/The_Nemesis_Portrait_Render.png",
         "powers": [
             "Eclipse/iconPowers_T-virus1.png",

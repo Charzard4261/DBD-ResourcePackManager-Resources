@@ -382,7 +382,7 @@
         }
     },
     "yui_kimura": {
-        "portrait": "Sweden/SS_charSelect_portrait_charSelect_portrait.png",
+        "portrait": "Sweden/SS_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/Yui_Portrait_Render.png",
         "perkA": {
             "filePath": "Sweden/iconPerks_luckyBreak.png",
