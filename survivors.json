@@ -141,7 +141,199 @@
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0e/IconPerks_saboteur.png"
         }
     },
-    "ash_williams": {
+    "nea_karlsson": {
+        "portrait": "NK_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/Nea_Portrait_Render.png",
+        "perkA": {
+            "filePath": "iconPerks_balancedLanding.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5e/IconPerks_balancedLanding.png"
+        },
+        "perkB": {
+            "filePath": "iconPerks_urbanEvasion.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_urbanEvasion.png"
+        },
+        "perkC": {
+            "filePath": "iconPerks_streetwise.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/IconPerks_streetwise.png"
+        }
+    },
+    "laurie_strode": {
+        "portrait": "DLC2/LS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/Laurie_Portrait_Render.png",
+        "perkA": {
+            "filePath": "DLC2/iconPerks_soleSurvivor.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/IconPerks_soleSurvivor.png"
+        },
+        "perkB": {
+            "filePath": "DLC2/iconPerks_objectOfObsession.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_objectOfObsession.png"
+        },
+        "perkC": {
+            "filePath": "DLC2/iconPerks_decisiveStrike.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/ee/IconPerks_decisiveStrike.png"
+        }
+    },
+    "ace_visconti": {
+        "portrait": "DLC3/AV_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/68/Ace_Portrait_Render.png",
+        "perkA": {
+            "filePath": "DLC3/iconPerks_openHanded.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_open-Handed.png"
+        },
+        "perkB": {
+            "filePath": "DLC3/iconPerks_upTheAnte.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_upTheAnte.png"
+        },
+        "perkC": {
+            "filePath": "DLC3/iconPerks_aceInTheHole.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/24/IconPerks_aceInTheHole.png"
+        }
+    },
+    "william_overbeck": {
+        "portrait": "L4D/BO_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/92/Bill_Portrait_Render.png",
+        "perkA": {
+            "filePath": "L4D/iconPerks_leftBehind.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_leftBehind.png"
+        },
+        "perkB": {
+            "filePath": "L4D/iconPerks_borrowedTime.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a3/IconPerks_borrowedTime.png"
+        },
+        "perkC": {
+            "filePath": "L4D/iconPerks_unbreakable.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4a/IconPerks_unbreakable.png"
+        }
+    },
+    "feng_min": {
+        "portrait": "DLC4/FM_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/Feng_Portrait_Render.png",
+        "perkA": {
+            "filePath": "DLC4/iconPerks_technician.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/62/IconPerks_technician.png"
+        },
+        "perkB": {
+            "filePath": "DLC4/iconPerks_lithe.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cc/IconPerks_lithe.png"
+        },
+        "perkC": {
+            "filePath": "DLC4/iconPerks_alert.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/71/IconPerks_alert.png"
+        }
+    },
+    "david_king": {
+        "portrait": "DLC5/DK_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/David_Portrait_Render.png",
+        "perkA": {
+            "filePath": "DLC5/iconPerks_WereGonnaLiveForever.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/IconPerks_wereGonnaLiveForever.png"
+        },
+        "perkB": {
+            "filePath": "DLC5/iconPerks_DeadHard.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_deadHard.png"
+        },
+        "perkC": {
+            "filePath": "DLC5/iconPerks_NoMither.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_noMither.png"
+        }
+    },
+    "quentin_smith": {
+        "portrait": "England/QS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Quentin_Portrait_Render.png",
+        "perkA": {
+            "filePath": "England/iconPerks_wakeUp.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/IconPerks_wakeUp.png"
+        },
+        "perkB": {
+            "filePath": "England/iconPerks_pharmacy.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f1/IconPerks_pharmacy.png"
+        },
+        "perkC": {
+            "filePath": "England/iconPerks_vigil.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_vigil.png"
+        }
+    },
+    "david_tapp": {
+        "portrait": "Finland/FS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c5/Tapp_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Finland/iconPerks_tenacity.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9d/IconPerks_tenacity.png"
+        },
+        "perkB": {
+            "filePath": "Finland/iconPerks_detectivesHunch.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7b/IconPerks_detectivesHunch.png"
+        },
+        "perkC": {
+            "filePath": "Finland/iconPerks_stakeOut.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/IconPerks_stakeOut.png"
+        }
+    },
+    "kate_denson": {
+        "portrait": "Guam/GS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/Kate_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Kate/iconPerks_danceWithMe.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_danceWithMe.png"
+        },
+        "perkB": {
+            "filePath": "Kate/iconPerks_windowsOfOpportunity.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/17/IconPerks_windowsOfOpportunity.png"
+        },
+        "perkC": {
+            "filePath": "Kate/iconPerks_boilOver.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f5/IconPerks_boilOver.png"
+        }
+    },
+    "adam_francis": {
+        "portrait": "Haiti/AF_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/Adam_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Haiti/iconPerks_diversion.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a6/IconPerks_diversion.png"
+        },
+        "perkB": {
+            "filePath": "Haiti/iconPerks_deliverance.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_deliverance.png"
+        },
+        "perkC": {
+            "filePath": "Haiti/iconPerks_autodidact.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/96/IconPerks_autodidact.png"
+        }
+    },
+    "jeffrey_johansen": {
+        "portrait": "Kenya/KS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/Jeff_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Kenya/iconPerks_breakdown.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6c/IconPerks_breakdown.png"
+        },
+        "perkB": {
+            "filePath": "Kenya/iconPerks_aftercare.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_aftercare.png"
+        },
+        "perkC": {
+            "filePath": "Kenya/iconPerks_distortion.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/IconPerks_distortion.png"
+        }
+    },
+    "jane_romero": {
+        "portrait": "Mali/MS_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/Jane_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Mali/iconPerks_solidarity.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_solidarity.png"
+        },
+        "perkB": {
+            "filePath": "Mali/iconPerks_poised.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_poised.png"
+        },
+        "perkC": {
+            "filePath": "Mali/iconPerks_headOn.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cb/IconPerks_headOn.png"
+        }
+    },
+    "ashley_williams": {
         "portrait": "Ash/MS2_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/16/Ash_Portrait_Render.png",
         "perkA": {
@@ -157,13 +349,281 @@
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/52/IconPerks_mettleOfMan.png"
         }
     },
+    "nancy_wheeler": {
+        "portrait": "Qatar/QF_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/22/Nancy_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Qatar/iconPerks_betterTogether.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_betterTogether.png"
+        },
+        "perkB": {
+            "filePath": "Qatar/iconPerks_fixated.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_fixated.png"
+        },
+        "perkC": {
+            "filePath": "Qatar/iconPerks_innerStrength.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/47/IconPerks_innerStrength.png"
+        }
+    },
+    "steve_harrington": {
+        "portrait": "Qatar/QM_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/Steve_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Qatar/iconPerks_babySitter.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_babysitter.png"
+        },
+        "perkB": {
+            "filePath": "Qatar/iconPerks_camaraderie.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1d/IconPerks_camaraderie.png"
+        },
+        "perkC": {
+            "filePath": "Qatar/iconPerks_secondWind.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/97/IconPerks_secondWind.png"
+        }
+    },
+    "yui_kimura": {
+        "portrait": "Sweden/SS_charSelect_portrait_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6e/Yui_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Sweden/iconPerks_luckyBreak.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a7/IconPerks_luckyBreak.png"
+        },
+        "perkB": {
+            "filePath": "Sweden/iconPerks_anyMeansNecessary.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/IconPerks_anyMeansNecessary.png"
+        },
+        "perkC": {
+            "filePath": "Sweden/iconPerks_breakout.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_breakout.png"
+        }
+    },
+    "zarina_kassir": {
+        "portrait": "Ukraine/US_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1f/Zarina_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Ukraine/iconPerks_offTheRecord.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9e/IconPerks_offTheRecord.png"
+        },
+        "perkB": {
+            "filePath": "Ukraine/iconPerks_redHerring.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_redHerring.png"
+        },
+        "perkC": {
+            "filePath": "Ukraine/iconPerks_forThePeople.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_forThePeople.png"
+        }
+    },
+    "cheryl_mason": {
+        "portrait": "Wales/S22_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c2/Cheryl_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Wales/iconPerks_soulGuard.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_soulGuard.png"
+        },
+        "perkB": {
+            "filePath": "Wales/iconPerks_bloodPact.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c9/IconPerks_bloodPact.png"
+        },
+        "perkC": {
+            "filePath": "Wales/iconPerks_repressedAlliance.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/IconPerks_repressedAlliance.png"
+        }
+    },
+    "felix_richter": {
+        "portrait": "Yemen/S23_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f0/Felix_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Yemen/iconPerks_visionary.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7c/IconPerks_visionary.png"
+        },
+        "perkB": {
+            "filePath": "Yemen/iconPerks_desperateMeasures.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/IconPerks_desperateMeasures.png"
+        },
+        "perkC": {
+            "filePath": "Yemen/iconPerks_builtToLast.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_builtToLast.png"
+        }
+    },
+    "elodie_rakoto": {
+        "portrait": "Aurora/S24_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/Elodie_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Aurora/iconPerks_appraisal.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c1/IconPerks_appraisal.png"
+        },
+        "perkB": {
+            "filePath": "Aurora/iconPerks_deception.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/eb/IconPerks_deception.png"
+        },
+        "perkC": {
+            "filePath": "Aurora/iconPerks_powerStruggle.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4b/IconPerks_powerStruggle.png"
+        }
+    },
+    "yun-jin_lee": {
+        "portrait": "Comet/S25_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/cd/Yun-Jin_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Comet/iconPerks_FastTrack.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/75/IconPerks_fastTrack.png"
+        },
+        "perkB": {
+            "filePath": "Comet/iconPerks_SmashHit.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e0/IconPerks_smashHit.png"
+        },
+        "perkC": {
+            "filePath": "Comet/iconPerks_Self-Preservation.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/43/IconPerks_self-Preservation.png"
+        }
+    },
+    "jill_velentine": {
+        "portrait": "Eclipse/S26_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b5/Jill_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Eclipse/iconPerks_Counterforce.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d1/IconPerks_counterforce.png"
+        },
+        "perkB": {
+            "filePath": "Eclipse/iconPerks_Resurgence.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f3/IconPerks_resurgence.png"
+        },
+        "perkC": {
+            "filePath": "Eclipse/iconPerks_blastMine.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/1c/IconPerks_blastMine.png"
+        }
+    },
+    "leon_kennedy": {
+        "portrait": "Eclipse/S27_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/55/Leon_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Eclipse/iconPerks_BiteTheBullet.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a5/IconPerks_biteTheBullet.png"
+        },
+        "perkB": {
+            "filePath": "Eclipse/iconPerks_Flashbang.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/db/IconPerks_flashbang.png"
+        },
+        "perkC": {
+            "filePath": "Eclipse/iconPerks_RookieSpirit.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2f/IconPerks_rookieSpirit.png"
+        }
+    },
+    "mikaela_reid": {
+        "portrait": "Hubble/S28_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/Mikaela_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Hubble/iconPerks_Clairvoyance.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/IconPerks_clairvoyance.png"
+        },
+        "perkB": {
+            "filePath": "Hubble/iconPerks_BoonCircleOfHealing.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/54/IconPerks_boonCircleOfHealing.png"
+        },
+        "perkC": {
+            "filePath": "Hubble/iconPerks_BoonShadowStep.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/IconPerks_boonShadowStep.png"
+        }
+    },
+    "jonah_vasquez": {
+        "portrait": "Ion/T_S29_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/Jonah_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Ion/T_iconPerks_Overcome.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/82/IconPerks_overcome.png"
+        },
+        "perkB": {
+            "filePath": "Ion/T_iconPerks_CorrectiveAction.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4f/IconPerks_correctiveAction.png"
+        },
+        "perkC": {
+            "filePath": "Ion/T_iconPerks_BoonExponential.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/76/IconPerks_boonExponential.png"
+        }
+    },
+    "yoichi_asakawa": {
+        "portrait": "Kepler/S30_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/dd/Yoichi_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Kepler/iconPerks_parentalGuidance.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/46/IconPerks_parentalGuidance.png"
+        },
+        "perkB": {
+            "filePath": "Kepler/iconPerks_empathicConnection.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/14/IconPerks_empathicConnection.png"
+        },
+        "perkC": {
+            "filePath": "Kepler/iconPerks_darkTheory.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_boonDarkTheory.png"
+        }
+    },
+    "haddie_kaur": {
+        "portrait": "Meteor/S31_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b4/Haddie_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Meteor/iconPerks_InnerFocus.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7e/IconPerks_innerFocus.png"
+        },
+        "perkB": {
+            "filePath": "Meteor/iconPerks_ResidualManifest.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/IconPerks_residualManifest.png"
+        },
+        "perkC": {
+            "filePath": "Meteor/iconPerks_Overzealous.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/99/IconPerks_overzealous.png"
+        }
+    },
+    "ada_wong": {
+        "portrait": "Orion/S32_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/13/Ada_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Orion/iconPerks_Wiretap.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/23/IconPerks_wiretap.png"
+        },
+        "perkB": {
+            "filePath": "Orion/iconPerks_ReactiveHealing.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5a/IconPerks_reactiveHealing.png"
+        },
+        "perkC": {
+            "filePath": "Orion/iconPerks_LowProfile.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fb/IconPerks_lowProfile.png"
+        }
+    },
+    "rebecca_chambers": {
+        "portrait": "Orion/S33_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d0/Rebecca_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Orion/iconPerks_BetterThanNew.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b1/IconPerks_betterThanNew.png"
+        },
+        "perkB": {
+            "filePath": "Orion/iconPerks_Reassurance.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/IconPerks_reassurance.png"
+        },
+        "perkC": {
+            "filePath": "Orion/iconPerks_Hyperfocus.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5d/IconPerks_hyperfocus.png"
+        }
+    },
+    "vittorio_toscano": {
+        "portrait": "Qantum/S34_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/b8/Vittorio_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Qantum/iconPerks_PotentialEnergy.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/07/IconPerks_potentialEnergy.png"
+        },
+        "perkB": {
+            "filePath": "Qantum/iconPerks_Fogwise.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/90/IconPerks_fogwise.png"
+        },
+        "perkC": {
+            "filePath": "Qantum/iconPerks_VittoriosGambit.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png"
+        }
+    },
     "template": {
         "portrait": "_charSelect_portrait.png",
         "defaultPortrait": "",
-        "powers": [
-            ".png"
-        ],
-        "defaultPower": "",
         "perkA": {
             "filePath": ".png",
             "defaultImage": ""
@@ -175,7 +635,6 @@
         "perkC": {
             "filePath": ".png",
             "defaultImage": ""
-        },
-        "addons": []
+        }
     }
 }

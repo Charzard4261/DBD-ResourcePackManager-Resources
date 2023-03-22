@@ -719,27 +719,6 @@
         },
         "addons": []
     },
-    "the_skull_merchant": {
-        "portrait": "_charSelect_portrait.png",
-        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPowers_eyesInTheSky.png",
-        "powers": [
-            ".png"
-        ],
-        "defaultPower": "",
-        "perkA": {
-            "filePath": ".png",
-            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_thwack.png"
-        },
-        "perkB": {
-            "filePath": ".png",
-            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_leverage.png"
-        },
-        "perkC": {
-            "filePath": ".png",
-            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_gameAfoot.png"
-        },
-        "addons": []
-    },
     "template": {
         "portrait": "_charSelect_portrait.png",
         "defaultPortrait": "",
