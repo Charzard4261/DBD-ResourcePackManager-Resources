@@ -212,15 +212,15 @@
         "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/50/IconPowers_cartersSpark.png",
         "perkA": {
             "filePath": "DLC4/iconPerks_overwhelmingPresence.png",
-            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png"
-        },
-        "perkB": {
-            "filePath": "DLC4/iconPerks_monitorAbuse.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/IconPerks_overwhelmingPresence.png"
         },
-        "perkC": {
-            "filePath": "DLC4/iconPerks_overcharge.png",
+        "perkB": {
+            "filePath": "DLC4/iconPerks_monitorAndAbuse.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/60/IconPerks_monitorAndAbuse.png"
+        },
+        "perkC": {
+            "filePath": "DLC4/iconPerks_generatorOvercharge.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c3/IconPerks_overcharge.png"
         },
         "addons": []
     },
