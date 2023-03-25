@@ -621,6 +621,38 @@
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/f7/IconPerks_quickGambit.png"
         }
     },
+    "thalita_lyra": {
+        "portrait": "Saturn/S35_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/04/Thalita_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Saturn/iconPerks_FriendlyCompetition.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_friendlyCompetition.png"
+        },
+        "perkB": {
+            "filePath": "Saturn/iconPerks_TeamworkPowerOfTwo.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2b/IconPerks_teamworkPowerOfTwo.png"
+        },
+        "perkC": {
+            "filePath": "Saturn/iconPerks_CutLoose.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/IconPerks_cutLoose.png"
+        }
+    },
+    "renato_lyra": {
+        "portrait": "Saturn/S36_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/Renato_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Saturn/iconPerks_BloodRush.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/2c/IconPerks_bloodRush.png"
+        },
+        "perkB": {
+            "filePath": "Saturn/iconPerks_TeamworkCollectiveStealth.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/a0/IconPerks_teamworkCollectiveStealth.png"
+        },
+        "perkC": {
+            "filePath": "Saturn/iconPerks_BackgroundPlayer.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png"
+        }
+    },
     "template": {
         "portrait": "_charSelect_portrait.png",
         "defaultPortrait": "",

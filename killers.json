@@ -428,7 +428,7 @@
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3b/IconPerks_surge.png"
         },
         "perkB": {
-            "filePath": "Qatar/iconPerks_cruelLimits.png",
+            "filePath": "Qatar/iconPerks_cruelConfinement.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_cruelLimits.png"
         },
         "perkC": {
@@ -441,10 +441,10 @@
         "portrait": "Sweden/SK_charSelect_portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/The_Oni_Portrait_Render.png",
         "powers": [
-            "Sweden/iconPowers_yamaokasWrath.png",
-            "Sweden/iconPowers_yamaokasWrath_demon.png"
+            "Sweden/iconPowers_yamaokasWrath_demon.png",
+            "Sweden/iconPowers_yamaokasWrath.png"
         ],
-        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/66/IconPowers_yamaokasWrath.png",
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/86/IconPowers_yamaokasWrath_demon.png",
         "perkA": {
             "filePath": "Sweden/iconPerks_zanshinTactics.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d3/IconPerks_zanshinTactics.png"
@@ -716,6 +716,27 @@
         "perkC": {
             "filePath": "Quantum/iconPerks_Hubris.png",
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/aa/IconPerks_hubris.png"
+        },
+        "addons": []
+    },
+    "the_skull_merchant": {
+        "portrait": "Saturn/K31_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/The_Skull_Merchant_Portrait_Render.png",
+        "powers": [
+            "Saturn/iconPowers_drones.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPowers_eyesInTheSky.png",
+        "perkA": {
+            "filePath": "Saturn/iconPerks_Thwack.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/b/bb/IconPerks_thwack.png"
+        },
+        "perkB": {
+            "filePath": "Saturn/iconPerks_Leverage.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_leverage.png"
+        },
+        "perkC": {
+            "filePath": "Saturn/iconPerks_GameAfoot.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/IconPerks_gameAfoot.png"
         },
         "addons": []
     },
