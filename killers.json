@@ -740,7 +740,28 @@
         },
         "addons": []
     },
-    "template": {
+    "the_singularity": {
+        "portrait": "Umbra/K32_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/The_Singularity_Portrait_Render.png",
+        "powers": [
+            "Umbra/iconPowers_quantumInstantiation.png"
+        ],
+        "defaultPower": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/df/IconPowers_quantumInstantiation.png",
+        "perkA": {
+            "filePath": "Umbra/iconPerks_ForcedHesitation.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/4c/IconPerks_forcedHesitation.png"
+        },
+        "perkB": {
+            "filePath": "Umbra/iconPerks_GeneticLimits.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/IconPerks_geneticLimits.png"
+        },
+        "perkC": {
+            "filePath": "Umbra/iconPerks_SelfAware.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/01/IconPerks_machineLearning.png"
+        },
+        "addons": []
+    },
+	"template": {
         "portrait": "_charSelect_portrait.png",
         "defaultPortrait": "",
         "powers": [

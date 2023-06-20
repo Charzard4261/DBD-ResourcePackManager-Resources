@@ -653,7 +653,23 @@
             "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e8/IconPerks_backgroundPlayer.png"
         }
     },
-    "template": {
+    "gabriel_soma": {
+        "portrait": "Umbra/S37_charSelect_portrait.png",
+        "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/45/Gabriel_Portrait_Render.png",
+        "perkA": {
+            "filePath": "Umbra/iconPerks_troubleshooter.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0d/IconPerks_troubleshooter.png"
+        },
+        "perkB": {
+            "filePath": "Umbra/iconPerks_madeForThis.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c0/IconPerks_madeForThis.png"
+        },
+        "perkC": {
+            "filePath": "Umbra/iconPerks_scavenger.png",
+            "defaultImage": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c6/IconPerks_scavenger.png"
+        }
+    },
+	"template": {
         "portrait": "_charSelect_portrait.png",
         "defaultPortrait": "",
         "perkA": {
