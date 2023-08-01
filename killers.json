@@ -66,7 +66,7 @@
         }
     ],
     "the_trapper": {
-        "portrait": "TR_charSelect_portrait.png",
+        "portrait": "K01_TheTrapper_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/91/The_Trapper_Portrait_Render.png",
         "powers": [
             "iconPowers_trap.png"
@@ -92,7 +92,7 @@
         ]
     },
     "the_wraith": {
-        "portrait": "WR_charSelect_portrait.png",
+        "portrait": "K02_TheWraith_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/31/The_Wraith_Portrait_Render.png",
         "powers": [
             "iconPowers_bell.png"
@@ -118,7 +118,7 @@
         ]
     },
     "the_hillbilly": {
-        "portrait": "HB_charSelect_portrait.png",
+        "portrait": "K03_TheHillbilly_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/79/The_Hillbilly_Portrait_Render.png",
         "powers": [
             "iconPowers_chainsaw.png"
@@ -139,7 +139,7 @@
         "addons": []
     },
     "the_nurse": {
-        "portrait": "NR_charSelect_portrait.png",
+        "portrait": "K04_TheNurse_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0c/The_Nurse_Portrait_Render.png",
         "powers": [
             "iconPowers_breath.png"
@@ -160,7 +160,7 @@
         "addons": []
     },
     "the_shape": {
-        "portrait": "DLC2/SH_charSelect_portrait.png",
+        "portrait": "DLC2/K06_TheShape_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/32/The_Shape_Portrait_Render.png",
         "powers": [
             "DLC2/iconPowers_stalker1.png",
@@ -183,7 +183,7 @@
         "addons": []
     },
     "the_hag": {
-        "portrait": "DLC3/HA_charSelect_portrait.png",
+        "portrait": "DLC3/K05_TheHag_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/3c/The_Hag_Portrait_Render.png",
         "powers": [
             "DLC3/iconPowers_blackenedCatalyst.png"
@@ -204,7 +204,7 @@
         "addons": []
     },
     "the_doctor": {
-        "portrait": "DLC4/DO_charSelect_portrait.png",
+        "portrait": "DLC4/K07_TheDoctor_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/c/c7/The_Doctor_Portrait_Render.png",
         "powers": [
             "DLC4/iconPowers_cartersSpark.png"
@@ -225,7 +225,7 @@
         "addons": []
     },
     "the_huntress": {
-        "portrait": "DLC5/BE_charSelect_portrait.png",
+        "portrait": "DLC5/K08_TheHuntress_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/84/The_Huntress_Portrait_Render.png",
         "powers": [
             "DLC5/iconPowers_huntingHatchets.png"
@@ -246,7 +246,7 @@
         "addons": []
     },
     "the_cannibal": {
-        "portrait": "Cannibal/CA_charSelect_portrait.png",
+        "portrait": "Cannibal/K09_TheCannibal_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/27/The_Cannibal_Portrait_Render.png",
         "powers": [
             "Cannibal/iconPowers_bubbasChainsaw.png",
@@ -268,7 +268,7 @@
         "addons": []
     },
     "the_nightmare": {
-        "portrait": "England/SD_charSelect_portrait.png",
+        "portrait": "England/K10_TheNightmare_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/d2/The_Nightmare_Portrait_Render.png",
         "powers": [
             "England/iconPowers_dreamMaster.png"
@@ -289,7 +289,7 @@
         "addons": []
     },
     "the_pig": {
-        "portrait": "Finland/FK_charSelect_portrait.png",
+        "portrait": "Finland/K11_ThePig_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/93/The_Pig_Portrait_Render.png",
         "powers": [
             "Finland/jigsawsBaptism.png"
@@ -310,7 +310,7 @@
         "addons": []
     },
     "the_clown": {
-        "portrait": "Guam/GK_charSelect_portrait.png",
+        "portrait": "Guam/K12_TheClown_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/5b/The_Clown_Portrait_Render.png",
         "powers": [
             "Guam/iconPowers_gasBomb.png",
@@ -332,7 +332,7 @@
         "addons": []
     },
     "the_spirit": {
-        "portrait": "Haiti/HK_charSelect_portrait.png",
+        "portrait": "Haiti/K13_TheSpirit_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7d/The_Spirit_Portrait_Render.png",
         "powers": [
             "Haiti/iconPowers_yamaokasHaunting.png"
@@ -353,7 +353,7 @@
         "addons": []
     },
     "the_legion": {
-        "portrait": "Kenya/KK_charSelect_portrait.png",
+        "portrait": "Kenya/K14_TheLegion_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/02/The_Legion_Portrait_Render.png",
         "powers": [
             "Kenya/iconPowers_feralFrenzy.png"
@@ -374,7 +374,7 @@
         "addons": []
     },
     "the_plauge": {
-        "portrait": "Mali/MK_charSelect_portrait.png",
+        "portrait": "Mali/K15_ThePlague_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/8/8e/The_Plague_Portrait_Render.png",
         "powers": [
             "Mali/iconPowers_vilePurge.png"
@@ -395,7 +395,7 @@
         "addons": []
     },
     "the_ghost_face": {
-        "portrait": "Oman/OK_charSelect_portrait.png",
+        "portrait": "Oman/K16_TheGhostface_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/77/The_Ghost_Face_Portrait_Render.png",
         "powers": [
             "Oman/iconPowers_ghostPower_available.png",
@@ -417,7 +417,7 @@
         "addons": []
     },
     "the_demogorgon": {
-        "portrait": "Qatar/QK_charSelect_portrait.png",
+        "portrait": "Qatar/K17_TheDemogorgon_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/6/6d/K17_charSelect_portrait.png/revision/20200721164538",
         "powers": [
             "Qatar/iconPowers_ofTheAbyss.png"
@@ -438,7 +438,7 @@
         "addons": []
     },
     "the_oni": {
-        "portrait": "Sweden/SK_charSelect_portrait.png",
+        "portrait": "Sweden/K18_TheOni_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/e/e7/The_Oni_Portrait_Render.png",
         "powers": [
             "Sweden/iconPowers_yamaokasWrath_demon.png",
@@ -460,7 +460,7 @@
         "addons": []
     },
     "the_deathslinger": {
-        "portrait": "Ukraine/UK_charSelect_portrait.png",
+        "portrait": "Ukraine/K19_TheDeathslinger_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/d/da/The_Deathslinger_Portrait_Render.png",
         "powers": [
             "Ukraine/iconPowers_UK.png",
@@ -482,7 +482,7 @@
         "addons": []
     },
     "the_pyramidhead": {
-        "portrait": "Wales/K20_charSelect_portrait.png",
+        "portrait": "Wales/K20_TheExecutioner_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/1/10/The_Executioner_Portrait_Render.png",
         "powers": [
             "Wales/iconPowers_Wales_ritesOfJudgement.png"
@@ -503,7 +503,7 @@
         "addons": []
     },
     "the_blight": {
-        "portrait": "Yemen/K21_charSelect_portrait.png",
+        "portrait": "Yemen/K21_TheBlight_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/a/ad/The_Blight_Portrait_Render.png",
         "powers": [
             "Yemen/iconPowers_K21.png"
@@ -524,7 +524,7 @@
         "addons": []
     },
     "the_twins": {
-        "portrait": "Aurora/K22_charSelect_portrait.png",
+        "portrait": "Aurora/K22_TheTwins_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/9/9a/The_Twins_Portrait_Render.png",
         "powers": [
             "Aurora/iconPowers_bloodBond_01.png",
@@ -546,7 +546,7 @@
         "addons": []
     },
     "the_trickster": {
-        "portrait": "Comet/K23_charSelect_portrait.png",
+        "portrait": "Comet/K23_TheTrickster_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/7/7f/The_Trickster_Portrait_Render.png",
         "powers": [
             "Comet/iconPowers_Showstopper_01.png",
@@ -568,7 +568,7 @@
         "addons": []
     },
     "the_nemesis": {
-        "portrait": "Eclipse/K24_charSelect_portrait.png",
+        "portrait": "Eclipse/K24_TheNemesis_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/08/The_Nemesis_Portrait_Render.png",
         "powers": [
             "Eclipse/iconPowers_T-virus1.png",
@@ -591,7 +591,7 @@
         "addons": []
     },
     "the_cenobite": {
-        "portrait": "Gemini/K25_charSelect_portrait.png",
+        "portrait": "Gemini/K25_TheCenobite_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/4/41/The_Cenobite_Portrait_Render.png",
         "powers": [
             "Gemini/iconPowers_summonsOfPain.png"
@@ -612,7 +612,7 @@
         "addons": []
     },
     "the_artist": {
-        "portrait": "Ion/T_K26_charSelect_portrait.png",
+        "portrait": "Ion/K26_TheArtist_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/2/26/The_Artist_Portrait_Render.png",
         "powers": [
             "Ion/T_iconPowers_birdsOfTorment.png"
@@ -633,7 +633,7 @@
         "addons": []
     },
     "the_onryo": {
-        "portrait": "Kepler/K27_charSelect_portrait.png",
+        "portrait": "Kepler/K27_TheOnryo_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/3/33/The_Onryo_Portrait_Render.png",
         "powers": [
             "Kepler/iconPowers_delugeOfFear.png",
@@ -655,7 +655,7 @@
         "addons": []
     },
     "the_dredge": {
-        "portrait": "Meteor/K28_charSelect_portrait.png",
+        "portrait": "Meteor/K28_TheDredge_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/ff/The_Dredge_Portrait_Render.png",
         "powers": [
             "Meteor/T_iconPowers_ReignofDarkness.png"
@@ -676,7 +676,7 @@
         "addons": []
     },
     "the_mastermind": {
-        "portrait": "Orion/K29_charSelect_portrait.png",
+        "portrait": "Orion/K29_TheMasterMind_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/0f/The_Mastermind_Portrait_Render.png",
         "powers": [
             "Orion/iconPowers_virulentBound.png"
@@ -697,7 +697,7 @@
         "addons": []
     },
     "the_knight": {
-        "portrait": "Quantum/K30_charSelect_portrait.png",
+        "portrait": "Quantum/K30_TheKnight_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/0/00/The_Knight_Portrait_Render.png",
         "powers": [
             "Quantum/T_iconPowers_Executioner.png",
@@ -720,7 +720,7 @@
         "addons": []
     },
     "the_skull_merchant": {
-        "portrait": "Saturn/K31_charSelect_portrait.png",
+        "portrait": "Saturn/K31_TheSkullMerchant_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/f/fd/The_Skull_Merchant_Portrait_Render.png",
         "powers": [
             "Saturn/iconPowers_drones.png"
@@ -741,7 +741,7 @@
         "addons": []
     },
     "the_singularity": {
-        "portrait": "Umbra/K32_charSelect_portrait.png",
+        "portrait": "Umbra/K32_TheSingularity_Portrait.png",
         "defaultPortrait": "https://static.wikia.nocookie.net/deadbydaylight_gamepedia_en/images/5/53/The_Singularity_Portrait_Render.png",
         "powers": [
             "Umbra/iconPowers_quantumInstantiation.png"
